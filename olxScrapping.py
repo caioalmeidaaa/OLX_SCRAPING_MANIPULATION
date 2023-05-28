@@ -25,7 +25,7 @@ driver.maximize_window()
 
 # definindo olx pags
 pagina=1
-maxpagina = 2
+maxpagina = 99
 
 # Começando Scrapping
 for pagina in range(1, maxpagina+1):  #trocar depois para um botão de próx pagina...
